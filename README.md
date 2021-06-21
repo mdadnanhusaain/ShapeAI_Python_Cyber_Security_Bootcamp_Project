@@ -5,4 +5,5 @@ This Repository contains the code for the project on Weather Monitoring System.<
 <li>It stores the txt file at the same location where the files is stored.<br>
 <li>It keeps a complete record of details fetched by maintaining the Record in .txt file.
 <li>The code is supported by Comments in the necessary lines to make it more readable and understandable for the Reader.<br>
-This Project is a successful outcome of the 7 days free <b>Python & Cyber Security Bootcamp</b> taken by Mr. Harsh Akshit, currently Student Lead at GDG Ranchi.
+<br>This Project is a successful outcome of the 7 days free <b>Python & Cyber Security Bootcamp</b> taken by 
+  <u>Mr. Harsh Akshit</u>, currently <i>Student Lead</i> at <i>GDG Ranchi</i>.
