@@ -1,9 +1,7 @@
-# ShapeAI Python Cyber Security Bootcamp Project
-This Repository contains the code for the project on Weather Monitoring System.<br>
+# ShapeAI Python Javascript and Backend Wev Dev With Node.Js Bootcamp Project
+This Repository contains the code for the project on calculating Human Age equivalent in Dog Year.<br>
 <b>Some Key Points about the Code</b><br>
-<li>Uses Python & Weather API and also stores the data as .txt file.
-<li>Stores the txt file at the same location where the files is stored.<br>
-<li>Keeps a complete record of details fetched by maintaining the Record in .txt file.
-<li>The code is supported by Comments in the necessary lines to make it more readable and understandable for the Reader.<br>
-<br>This Project is a successful outcome of the 7 days free <b>Python & Cyber Security Bootcamp</b> taken by 
-  <ins>Mr. Harsh Akshit</ins>, currently <i>Student Lead</i> at <i>GDG Ranchi</i>.
+<li>Uses Javascript & Node.js to accept Human age and find Dog years equivalent.<br>
+<li>The code was made on <a href="https://codesandbox.io/s/shapeaijsreact-9yu1r">CodeSandbox.io</a>.<br>
+<br>This Project is a successful outcome of the 7 days free <b>Javascript and Backend Wev Dev With Node.Js Bootcamp</b> taken by 
+  <ins>Mr. Shaurya Sinha</ins>, currently <i>Co-Founder</i> at <i><a href="https://www.shapeai.tech/">ShapeAI</a></i>.
