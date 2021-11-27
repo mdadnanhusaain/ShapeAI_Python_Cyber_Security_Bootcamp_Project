@@ -23,7 +23,7 @@ f=open("Weather Log.txt","a")   # opens/creates a file names "Weather Log" to st
 t = ("\n\n-------------------------------------------------------------\n") 
 print(t)
 f.write(t)    
-t = ("Weather Stats for - {}  || {} GMT\n".format(location.upper(), date_time))     # Location and Date & Time when the Details were recorded
+t = ("Weather Stats for - {}  || {} IST\n".format(location.upper(), date_time))     # Location and Date & Time when the Details were recorded
 print(t)
 f.write(t)
 t = ("-------------------------------------------------------------\n")
