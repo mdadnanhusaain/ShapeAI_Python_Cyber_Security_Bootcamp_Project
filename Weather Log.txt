@@ -1,0 +1,18 @@
+
+
+-------------------------------------------------------------
+Weather Stats for - RANCHI  || 18 May 2022 | 10:12:44 AM IST
+-------------------------------------------------------------
+Current temperature is: 31.06 °C
+Current Weather desc  :haze
+Current Humidity      :55%
+Current Wind Speed    :3.6kmph
+
+
+-------------------------------------------------------------
+Weather Stats for - KHARAR  || 18 May 2022 | 10:12:54 AM IST
+-------------------------------------------------------------
+Current temperature is: 38.76 °C
+Current Weather desc  :few clouds
+Current Humidity      :14%
+Current Wind Speed    :3.38kmph
